@@ -1,0 +1,6 @@
+{
+  "name": "Telefonų pažeidimų registras",
+  "description": "Mokyklos moksleivių telefonų naudojimo taisyklių pažeidimų registravimo, žurnalo, statistikos bei sistemos nustatymų (klasių, vietų, numatytųjų pastabų) valdymo sistema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
